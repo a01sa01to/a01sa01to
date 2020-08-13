@@ -8,42 +8,12 @@ I belong to @KSS-PC-Club :school:.
 
 ## Social Accounts
 
- - <a href="https://github.com/a01sa01to/"><img src="./img/github.svg" alt="GitHub" height="14"> @a01sa01to</a>
-
-<div class="flex">
-    <a class="sns github" href="https://github.com/a01sa01to/">
-      <i class="fab fa-github"></i>
-      <span>@a01sa01to</span>
-    </a>
-    <a class="sns twitter" href="https://twitter.com/a01sa01to" target="_blank">
-      <i class="fab fa-twitter"></i>
-      <span>@a01sa01to</span>
-    </a>
-    <a class="sns insta" href="https://www.instagram.com/a01sa01to/" target="_blank">
-      <i class="fab fa-instagram"></i>
-      <span><i class="fas fa-lock"></i> a01sa01to</span>
-    </a>
-</div>
+ - <a href="https://github.com/a01sa01to/"><img src="https://raw.githubusercontent.com/a01sa01to/a01sa01to/master/img/github.svg" alt="GitHub" height="14"> @a01sa01to</a>
+ - <a href="https://twitter.com/a01sa01to/" target="_blank"><img src="https://raw.githubusercontent.com/a01sa01to/a01sa01to/master/img/twitter.svg" alt="Twitter" height="14"> @a01sa01to</a>
+ - <a href="https://www.instagram.com/a01sa01to/" target="_blank"><img src="https://raw.githubusercontent.com/a01sa01to/a01sa01to/master/img/instagram.svg" alt="Instagram" height="14"> @a01sa01to (Private)</a>
 
 ## Works
-<div class="flex">
-  <div>
-    <a href="https://github.com/a01sa01to/covid19-ibaraki">
-      <img src="https://gh-card.dev/repos/a01sa01to/covid19-ibaraki.svg" alt="a01sa01to/covid19-ibaraki - GitHub">
-    </a><br>
-    Preview: <a href="https://ibaraki.stopcovid19.jp/" target="_blank">https://ibaraki.stopcovid19.jp/</a><br>
-    Update info (:jp:): <a href="https://twitter.com/covid19_ibaraki" target="_blank">https://twitter.com/covid19_ibaraki</a>
-  </div>
-  <div>
-    <a href="https://github.com/a01sa01to/KSS-New">
-      <img src="https://gh-card.dev/repos/a01sa01to/KSS-New.svg" alt="a01sa01to/KSS-New - GitHub">
-    </a><br>
-    Preview: <a href="https://kss-new.a01sa01to.com/" target="_blank">https://kss-new.a01sa01to.com/</a>
-  </div>
-  <div>
-    <a href="https://github.com/a01sa01to/KSS-Monitor">
-      <img src="https://gh-card.dev/repos/a01sa01to/KSS-Monitor.svg" alt="a01sa01to/KSS-Monitor - GitHub">
-    </a><br>
-    Preview: <a href="https://repos.a01sa01to.com/KSS-Monitor/" target="_blank">https://repos.a01sa01to.com/KSS-Monitor/</a>
-  </div>
-</div>
+
+ - [![a01sa01to/covid19-ibaraki - GitHub](https://gh-card.dev/repos/a01sa01to/covid19-ibaraki.svg)](https://github.com/a01sa01to/covid19-ibaraki)<br>Preview: https://ibaraki.stopcovid19.jp/<br>Update info (:jp:): https://twitter.com/covid19_ibaraki<br><br>
+ - [![a01sa01to/KSS-New - GitHub](https://gh-card.dev/repos/a01sa01to/KSS-New.svg)](https://github.com/a01sa01to/KSS-New)<br>Preview: https://kss-new.a01sa01to.com<br><br>
+ - [![a01sa01to/KSS-Monitor - GitHub](https://gh-card.dev/repos/a01sa01to/KSS-Monitor.svg)](https://github.com/a01sa01to/KSS-Monitor)<br>Preview: https://repos.a01sa01to.com/KSS-Monitor/<br><br>
