@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="./style.css"></link>
-<link rel="stylesheet" href="./fa/css/all.min.css"></link>
-
 (Note) My Profile is now being built.
 
 # Asa (a01sa01to) :wave:
@@ -10,6 +7,9 @@ I am a Japanese student living in Ibaraki(Japan :japan:).<br>
 I belong to @KSS-PC-Club :school:.
 
 ## Social Accounts
+
+ - <a href="https://github.com/a01sa01to/"><img src="./img/github.svg" alt="GitHub" height="14"> @a01sa01to</a>
+
 <div class="flex">
     <a class="sns github" href="https://github.com/a01sa01to/">
       <i class="fab fa-github"></i>
