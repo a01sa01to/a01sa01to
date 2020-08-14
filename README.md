@@ -3,14 +3,25 @@
 # Asa (a01sa01to) :wave:
 
 ## Who am I ?
-I am a Japanese student living in Ibaraki(Japan :japan:).<br>
-I belong to @KSS-PC-Club :school:.
+ - 17 years old (:male_sign: ? :female_sign: ?)
+ - Born in 2003-01-01 (Happy new year :tada:)
+ - Japanese Student (:japan:)
+ - Live in Ibaraki Pref.
+ - Belong to @KSS-PC-Club :school:
+ - Developer
+ - Video Creator ([KSS Bakakkoii Series :clapper:](https://kss-bakakkoii.a01sa01to.com))
+ - Windows Insider <img src="https://raw.githubusercontent.com/a01sa01to/a01sa01to/master/img/windows.svg" alt="Windows" height="14">
 
 ## Social Accounts
 
  - <a href="https://github.com/a01sa01to/"><img src="https://raw.githubusercontent.com/a01sa01to/a01sa01to/master/img/github.svg" alt="GitHub" height="14"> @a01sa01to</a>
  - <a href="https://twitter.com/a01sa01to/" target="_blank"><img src="https://raw.githubusercontent.com/a01sa01to/a01sa01to/master/img/twitter.svg" alt="Twitter" height="14"> @a01sa01to</a>
  - <a href="https://www.instagram.com/a01sa01to/" target="_blank"><img src="https://raw.githubusercontent.com/a01sa01to/a01sa01to/master/img/instagram.svg" alt="Instagram" height="14"> @a01sa01to</a>
+
+## Highlights
+ - Arctic Code Vault Contributor :eight_pointed_black_star:
+ - Developer Program Member :desktop_computer:
+ - PRO User :star:
 
 ## Works
 
