@@ -3,7 +3,7 @@
 # Asa (a01sa01to) :wave:
 
 ## Who am I ?
- - 17 years old (:male_sign: ? :female_sign: ?)
+ - 18 years old
  - Born in 2003-01-01 (Happy new year :tada:)
  - Japanese Student (:japan:)
  - Live in Ibaraki Pref.
@@ -37,3 +37,4 @@
 
  - [![kss-pc-club/FirstStep - GitHub](https://gh-card.dev/repos/kss-pc-club/FirstStep.svg)](https://github.com/kss-pc-club/FirstStep)<br>Preview: https://firststep.kss-pc.club/<br><br>
  - [![kss-pc-club/typing - GitHub](https://gh-card.dev/repos/kss-pc-club/typing.svg)](https://github.com/kss-pc-club/typing)<br>Preview: https://typing.kss-pc.club/<br><br>
+ - [![kss-pc-club/kss-pay - GitHub](https://gh-card.dev/repos/kss-pc-club/kss-pay.svg)](https://github.com/kss-pc-club/kss-pay)<br>Preview: https://pay.kss-pc.club/<br><br>
