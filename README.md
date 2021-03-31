@@ -7,7 +7,8 @@
  - Born in 2003-01-01 (Happy new year :tada:)
  - Japanese Student (:japan:)
  - Live in Ibaraki Pref.
- - Belong to @KSS-PC-Club :school:
+ - Belong to @KSS-PC-Club :school: (already graduated)
+ - Belong to Saitama Univ
  - Developer
  - Video Creator ([KSS Bakakkoii Series :clapper:](https://kss-bakakkoii.a01sa01to.com))
  - Windows Insider <img src="https://raw.githubusercontent.com/a01sa01to/a01sa01to/master/img/windows.svg" alt="Windows" height="14">
