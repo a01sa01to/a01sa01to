@@ -13,6 +13,9 @@
  - Video Creator ([KSS Bakakkoii Series :clapper:](https://kss-bakakkoii.a01sa01to.com))
  - Windows Insider <img src="https://raw.githubusercontent.com/a01sa01to/a01sa01to/master/img/windows.svg" alt="Windows" height="14">
 
+## Become a sponsor! [![](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/a01sa01to)
+(Sponsors will be listed here.)
+
 ## Social Accounts
 
  - <a href="https://github.com/a01sa01to/"><img src="https://raw.githubusercontent.com/a01sa01to/a01sa01to/master/img/github.svg" alt="GitHub" height="14"> @a01sa01to</a>
