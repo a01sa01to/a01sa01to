@@ -5,7 +5,8 @@
 
 ## About me
 
-Refer https://a01sa01to.com/about#social (https://a01sa01to.com/about?lang=en#social for English)
+Refer https://a01sa01to.com/about<br>
+(https://a01sa01to.com/about?lang=en for English)
 
 ## Highlights
  - Arctic Code Vault Contributor :eight_pointed_black_star:
