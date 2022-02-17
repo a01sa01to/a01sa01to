@@ -5,8 +5,7 @@
 
 ## About me
 
-Refer https://a01sa01to.com/about<br>
-(https://a01sa01to.com/about?lang=en for English)
+Refer https://a01sa01to.com/about
 
 ## Highlights
  - Arctic Code Vault Contributor :eight_pointed_black_star:
@@ -26,3 +25,11 @@ Refer https://a01sa01to.com/about<br>
 [![kss-pc-club/FirstStep - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=kss-pc-club&repo=FirstStep)](https://github.com/kss-pc-club/FirstStep)
 [![kss-pc-club/typing - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=kss-pc-club&repo=typing)](https://github.com/kss-pc-club/typing)
 [![kss-pc-club/kss-pay - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=kss-pc-club&repo=kss-pay)](https://github.com/kss-pc-club/kss-pay)
+
+## Competitive Programming
+[![a01sa01to](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fa01sa01to&style=for-the-badge)](https://atcoder.jp/users/a01sa01to)
+[![a01sa01to](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fa01sa01to&style=for-the-badge)](https://codeforces.com/profile/a01sa01to)
+
+<div style="text-align:right;margin:1rem">
+Last Update: 2022-02-17
+</div>
