@@ -1,5 +1,9 @@
 # Asa (a01sa01to) :wave:
 
+<div style="text-align:right;margin:1rem">
+Last Update: 2022-08-09
+</div>
+
 ![Asa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a01sa01to&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a01sa01to&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,9 +31,8 @@ Refer https://a01sa01to.com/about
 [![kss-pc-club/kss-pay - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=kss-pc-club&repo=kss-pay)](https://github.com/kss-pc-club/kss-pay)
 
 ## Competitive Programming
+(Updated Automatically)
+
 [![a01sa01to](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fa01sa01to&style=for-the-badge)](https://atcoder.jp/users/a01sa01to)
 [![a01sa01to](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fa01sa01to&style=for-the-badge)](https://codeforces.com/profile/a01sa01to)
 
-<div style="text-align:right;margin:1rem">
-Last Update: 2022-02-17
-</div>
