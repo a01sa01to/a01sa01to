@@ -3,7 +3,7 @@
 Last Update: 2022-12-08
 
 ![Asa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a01sa01to&count_private=true&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a01sa01to&layout=compact&count_private=true&exclude_repo=atcoder-archive,codeforces-archive,kaggle-archive,aoj-archive,my-website&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a01sa01to&layout=compact&count_private=true&exclude_repo=atcoder-archive,codeforces-archive,kaggle-archive,aoj-archive,my-website,my-website-2&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Table of Contents
  - [Bio](#bio)
