@@ -1,6 +1,6 @@
 # Asa (a01sa01to) :wave:
 
-Last Update: 2022-12-08
+Last Update: 2022-12-19
 
 ![Asa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a01sa01to&count_private=true&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a01sa01to&layout=compact&count_private=true&exclude_repo=atcoder-archive,codeforces-archive,kaggle-archive,aoj-archive,my-website,my-website-2&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,7 +22,9 @@ Last Update: 2022-12-08
 <h2 id="bio">Bio</h2>
 
 B2 Japanese Student at dept. of Information and Computer Sciences, Saitama University :jp: .<br>
-Graduated from Koga Secondary School (@kss-pc-club).<br>
+Leader of Programming Circle "Maximum" ([@saitamau-maximum](https://github.com/saitamau-maximum)) in FY2022.
+
+Graduated from Koga Secondary School ([@kss-pc-club](https://github.com/kss-pc-club)).<br>
 Born on 2003-01-01.
 
 <h2 id="prog">Programming Lang / Framework</h2>
