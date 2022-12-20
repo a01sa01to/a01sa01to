@@ -7,7 +7,7 @@ Last Update: 2022-12-19
 
 ## Table of Contents
  - [Bio](#bio)
- - [Programming Lang / Framework](#prog)
+ - [Programming](#prog)
    - [Main](#prog-main)
    - [Experienced](#prog-exp)
  - [Works](#works)
@@ -27,7 +27,7 @@ Leader of Programming Circle "Maximum" ([@saitamau-maximum](https://github.com/s
 Graduated from Koga Secondary School ([@kss-pc-club](https://github.com/kss-pc-club)).<br>
 Born on 2003-01-01.
 
-<h2 id="prog">Programming Lang / Framework</h2>
+<h2 id="prog">Programming</h2>
 
 (Ascending Alphabetical Order)
 
