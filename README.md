@@ -1,6 +1,6 @@
 # Asa (a01sa01to) :wave:
 
-Last Update: 2022-12-19
+Last Update: 2022-12-22
 
 ![Asa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a01sa01to&count_private=true&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a01sa01to&layout=compact&count_private=true&exclude_repo=atcoder-archive,codeforces-archive,kaggle-archive,aoj-archive,my-website,my-website-2&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,6 +26,8 @@ Leader of Programming Circle "Maximum" ([@saitamau-maximum](https://github.com/s
 
 Graduated from Koga Secondary School ([@kss-pc-club](https://github.com/kss-pc-club)).<br>
 Born on 2003-01-01.
+
+Applied Information Technology Engineer.
 
 <h2 id="prog">Programming</h2>
 
