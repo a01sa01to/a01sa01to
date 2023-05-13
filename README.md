@@ -1,6 +1,6 @@
 # Asa (a01sa01to) :wave:
 
-Last Update: 2023-04-01
+Last Update: 2023-05-13
 
 ![Asa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a01sa01to&count_private=true&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a01sa01to&layout=compact&count_private=true&exclude_repo=atcoder-archive,codeforces-archive,kaggle-archive,aoj-archive,my-website,my-website-2&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,7 +16,6 @@ Last Update: 2023-04-01
  - [Competitive Programming](#cp)
    - [Contests](#cp-contests)
    - [Ratings](#cp-ratings)
-   - [Code Archives](#cp-archives)
  - [Skip this Profile](#skip)
 
 <h2 id="bio">Bio</h2>
@@ -82,12 +81,5 @@ Applied Information Technology Engineer.
 
 [![a01sa01to](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fa01sa01to&style=for-the-badge)](https://atcoder.jp/users/a01sa01to)
 [![a01sa01to](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fa01sa01to&style=for-the-badge)](https://codeforces.com/profile/a01sa01to)
-
-<h3 id="cp-archives">Code Archives</h3>
-
-[![a01sa01to/atcoder-archive - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=a01sa01to&repo=atcoder-archive&theme=transparent)](https://github.com/a01sa01to/atcoder-archive)
-[![a01sa01to/aoj-archive - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=a01sa01to&repo=aoj-archive&theme=transparent)](https://github.com/a01sa01to/aoj-archive)
-[![a01sa01to/codeforces-archive - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=a01sa01to&repo=codeforces-archive&theme=transparent)](https://github.com/a01sa01to/codeforces-archive)
-[![a01sa01to/kaggle-archive - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=a01sa01to&repo=kaggle-archive&theme=transparent)](https://github.com/a01sa01to/kaggle-archive)
 
 <div id="skip"></div>
