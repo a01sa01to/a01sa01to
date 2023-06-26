@@ -79,6 +79,7 @@ Applied Information Technology Engineer.
 
  - ICPC2021: `seica is gone`<br>Prelim: 43th, Regional: 11th
  - ICPC2022: `Maximum-goodlife9`<br>Prelim: 16th, Regional: 14th
+ - ICPC2023: `Maximum-executive`<br>Prelim: ???
 
 <h3 id="cp-ratings">Ratings</h3>
 
