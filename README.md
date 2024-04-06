@@ -1,6 +1,6 @@
 # Asa (a01sa01to) :wave:
 
-Last Update: 2023-06-26
+Last Update: 2024-04-06
 
 ![Asa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a01sa01to&count_private=true&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a01sa01to&layout=compact&count_private=true&exclude_repo=atcoder-archive,codeforces-archive,kaggle-archive,aoj-archive,my-website,my-website-2&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,7 +21,7 @@ Last Update: 2023-06-26
 
 <h2 id="bio">Bio</h2>
 
-B3 Japanese Student at dept. of Information and Computer Sciences, Saitama University :jp: .<br>
+B4 Japanese Student at dept. of Information and Computer Sciences, Saitama University :jp: .<br>
 Leader of Programming Circle "Maximum" ([@saitamau-maximum](https://github.com/saitamau-maximum)) in FY2022, FY2023.
 
 Graduated from Koga Secondary School ([@kss-pc-club](https://github.com/kss-pc-club)).<br>
@@ -41,6 +41,8 @@ Applied Information Technology Engineer.
  - JavaScript / TypeScript
  - Markdown
  - Python
+ - React / Next.js
+ - Rust
 
 <h3 id="prog-exp">Experienced</h3>
 
@@ -48,15 +50,14 @@ Applied Information Technology Engineer.
  - Go
  - Java
  - PHP
- - React / Next.js
  - Ruby
- - Rust
  - Vue / Nuxt.js
 
 <h2 id="works">Works</h2>
 
 <h3 id="works-personal">Personal</h3>
 
+[![a01sa01to/cp-review - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=a01sa01to&repo=cp-review&theme=transparent)](https://github.com/a01sa01to/cp-review)
 [![a01sa01to/covid19-ibaraki - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=a01sa01to&repo=covid19-ibaraki&theme=transparent)](https://github.com/a01sa01to/covid19-ibaraki)
 [![a01sa01to/KSS-New - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=a01sa01to&repo=KSS-New&theme=transparent)](https://github.com/a01sa01to/KSS-New)
 [![a01sa01to/kss-bakakkoii-website - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=a01sa01to&repo=kss-bakakkoii-website&theme=transparent)](https://github.com/a01sa01to/kss-bakakkoii-website)
@@ -71,7 +72,9 @@ Applied Information Technology Engineer.
 
 <h3 id="works-maximum">Maximum</h3>
 
-[![kss-pc-club/typing - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=saitamau-maximum&repo=icpc-prelim-system&theme=transparent)](https://github.com/saitamau-maximum/icpc-prelim-system)
+[![saitamau-maximum/icpc-prelim-system - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=saitamau-maximum&repo=icpc-prelim-system&theme=transparent)](https://github.com/saitamau-maximum/icpc-prelim-system)
+[![saitamau-maximum/members - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=saitamau-maximum&repo=members&theme=transparent)](https://github.com/saitamau-maximum/members)
+[![saitamau-maximum/auth - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=saitamau-maximum&repo=auth&theme=transparent)](https://github.com/saitamau-maximum/auth)
 
 <h2 id="cp">Competitive Programming</h2>
 
@@ -79,7 +82,7 @@ Applied Information Technology Engineer.
 
  - ICPC2021: `seica is gone`<br>Prelim: 43th, Regional: 11th
  - ICPC2022: `Maximum-goodlife9`<br>Prelim: 16th, Regional: 14th
- - ICPC2023: `Maximum-executive`<br>Prelim: ???
+ - ICPC2023: `Maximum-executive`<br>Prelim: 71st
 
 <h3 id="cp-ratings">Ratings</h3>
 
