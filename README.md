@@ -45,3 +45,4 @@ by CyberAgent, Inc.
 
 - Web Speed Hackathon 2023: Regulation fail (Score standings: 10th, 8th of students)
 - Web Speed Hackathon 2024: 3rd (2nd of students)
+- Web Speed Hackathon 2025: Regulation fail (Score standings: 16th, 9th of students)
