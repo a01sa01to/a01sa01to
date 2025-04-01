@@ -2,14 +2,15 @@
 
 <https://a01sa01to.com/>
 
-B4 Japanese Student at dept. of Information and Computer Sciences, Saitama University :jp:
+M1 Japanese Student at dept. of Information and Computer Sciences, Saitama University :jp:
 
 Leader of Programming Circle "Maximum" ([@saitamau-maximum](https://github.com/saitamau-maximum)) in FY2022, FY2023.
 
 Graduated from Koga Secondary School ([@kss-pc-club](https://github.com/kss-pc-club)).<br>
 Born on 2003-01-01.
 
-Applied Information Technology Engineer. Registered Information Security Specialist (No. [028737](https://riss.ipa.go.jp/r?r=028737)).
+Applied Information Technology Engineer.
+Registered Information Security Specialist (No. [028737](https://riss.ipa.go.jp/r?r=028737)).
 
 ## Interests
 
