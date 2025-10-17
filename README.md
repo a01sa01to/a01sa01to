@@ -25,6 +25,7 @@ Registered Information Security Specialist (No. [028737](https://riss.ipa.go.jp/
 - Backend Engineer Intern at [Fiah Co., Ltd.](https://github.com/fiah-hd) (2023-04 - 2023-07)
 - Data Scientists Intern at [Recruit Co., Ltd.](https://github.com/recruit-tech) (2023-10 - 2023-12)
 - Full-stack Engineer Intern at [GMO Media, Inc.](https://github.com/gmo-media) (2025-07 - 2025-08)
+- Full-stack Engineer Intern at [Money Forward, Inc.](https://github.com/moneyforward) (2025-10)
 
 ## Contests
 
