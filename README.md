@@ -21,11 +21,11 @@ Registered Information Security Specialist (No. [028737](https://riss.ipa.go.jp/
 
 ## Experience
 
-- Contents Writer Part-time at [Paiza, Inc.](https://github.com/paiza-learning) (2023-04 - now)
-- Backend Engineer Intern at [Fiah Co., Ltd.](https://github.com/fiah-hd) (2023-04 - 2023-07)
-- Data Scientists Intern at [Recruit Co., Ltd.](https://github.com/recruit-tech) (2023-10 - 2023-12)
-- Full-stack Engineer Intern at [GMO Media, Inc.](https://github.com/gmo-media) (2025-07 - 2025-08)
-- Full-stack Engineer Intern at [Money Forward, Inc.](https://github.com/moneyforward) (2025-10)
+- Contents Writer Part-time at [Paiza, Inc.](https://github.com/paiza-learning) (2023.04 - now)
+- Backend Engineer Intern at [Fiah Co., Ltd.](https://github.com/fiah-hd) (2023.04 - 2023.07)
+- Data Scientists Intern at [Recruit Co., Ltd.](https://github.com/recruit-tech) (2023.10 - 2023.12)
+- Full-stack Engineer Intern at [GMO Media, Inc.](https://github.com/gmo-media) (2025.07 - 2025.08)
+- Full-stack Engineer Intern at [Money Forward, Inc.](https://github.com/moneyforward) (2025.10)
 
 ## Contests
 
@@ -40,7 +40,7 @@ Registered Information Security Specialist (No. [028737](https://riss.ipa.go.jp/
 - ICPC2022: `Maximum-goodlife9` Prelim: 16th, Yokohama Regional: 14th
 - ICPC2023: `Maximum-executive` Prelim: 71st
 - ICPC2024: `executive is deprived` Prelim: 31st, Yokohama Regional: 47th
-- ICPC2025: `Maximum Masters` Prelim: 40th, Yokohama Regional: ???
+- ICPC2025: `Maximum Masters` Prelim: 40th, Yokohama Regional: 43rd
 
 ### ISUCON
 
