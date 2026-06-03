@@ -2,7 +2,7 @@
 
 <https://a01sa01to.com/>
 
-M1 Japanese Student at dept. of Information and Computer Sciences, Saitama University :jp:
+M2 Japanese Student at dept. of Information and Computer Sciences, Saitama University :jp:
 
 Leader of Programming Circle "Maximum" ([@saitamau-maximum](https://github.com/saitamau-maximum)) in FY2022, FY2023.
 
@@ -56,3 +56,4 @@ by CyberAgent, Inc.
 - Web Speed Hackathon 2023: Regulation fail (Score standings: 10th, 8th of students)
 - Web Speed Hackathon 2024: 3rd (2nd of students)
 - Web Speed Hackathon 2025: Regulation fail (Score standings: 16th, 9th of students)
+- Web Speed Hackathon 2025: 6th (2nd of students)
